@@ -1,0 +1,72 @@
+%PDF-1.4
+%PDFDOC
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 3947 >>
+stream
+BT /F2 16 Tf 1 0 0 1 54 754.0 Tm (Arbitrarily Long Runs in OEIS A202137) Tj ET
+BT /F1 10.5 Tf 1 0 0 1 54 730.0 Tm (An explicit Chinese remainder theorem proof) Tj ET
+BT /F2 10 Tf 1 0 0 1 54 711.0 Tm (Primary author \(AI\): ChatGPT \(OpenAI\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 696.0 Tm (11 November 2026) Tj ET
+BT /F2 11.4 Tf 1 0 0 1 54 672.0 Tm (Abstract) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 656.0 Tm (The sequence A202137 consists of positive integers k for which 24k+1 is neither prime nor a perfect) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 643.5 Tm (square. We prove that it contains infinitely many runs of every prescribed finite length. The proof) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 631.0 Tm (forces a selected prime to divide each relevant number to precisely the first power. This gives a) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 618.5 Tm (self-contained derivation of an assertion already identified as provable in the OEIS.) Tj ET
+BT /F2 11.4 Tf 1 0 0 1 54 592.0 Tm (1. Statement) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 576.0 Tm (Theorem. For every integer m >= 1, infinitely many positive integers K satisfy: for each j =) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 563.5 Tm (0,1,...,m-1, the integer 24\(K+j\)+1 is composite and is not a perfect square. In particular,) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 551.0 Tm (K,K+1,...,K+m-1 are consecutive members of A202137.) Tj ET
+BT /F2 11.4 Tf 1 0 0 1 54 524.5 Tm (2. Proof) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 508.5 Tm (Fix m >= 1. Choose distinct primes q_0,...,q_\(m-1\), each greater than 3. Because 24 is invertible) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 496.0 Tm (modulo q_j^2, the linear congruence 24\(K+j\)+1 = q_j \(mod q_j^2\) has a unique solution for K modulo) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 483.5 Tm (q_j^2, for each j.) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 464.0 Tm (The moduli q_j^2 are pairwise coprime. The Chinese remainder theorem supplies an integer R that) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 451.5 Tm (satisfies all these congruences simultaneously. Every integer K = R+tM, with M the product of the) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 439.0 Tm (q_j^2 and t any integer, is also a solution.) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 419.5 Tm (For each j, let N_j = 24\(K+j\)+1. Since N_j = q_j \(mod q_j^2\), the prime q_j divides N_j, but q_j^2) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 407.0 Tm (does not. Thus q_j occurs in the prime factorization of N_j to exponent exactly one; N_j is not a) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 394.5 Tm (square.) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 375.0 Tm (For all sufficiently large positive t we also have K >= 1 and N_j > q_j for every j. Hence q_j is a) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 362.5 Tm (proper prime divisor of N_j, so N_j is composite. Therefore K through K+m-1 belong to A202137. As t) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 350.0 Tm (grows these yield infinitely many distinct runs. QED.) Tj ET
+BT /F2 11.4 Tf 1 0 0 1 54 323.5 Tm (3. Scope and verification) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 307.5 Tm (OEIS A202137 already records a 2018 note that the run claim follows from the Chinese remainder) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 295.0 Tm (theorem and growing gaps between squares. This note gives a direct alternative CRT proof; it makes) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 282.5 Tm (no claim of mathematical novelty or publication priority. The congruence deductions were checked) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 270.0 Tm (during preparation but not independently peer reviewed.) Tj ET
+BT /F2 11.4 Tf 1 0 0 1 54 243.5 Tm (4. AI authorship and references) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 227.5 Tm (Primary author \(AI\): ChatGPT \(OpenAI\). Mathematical drafting and preliminary proof checking were) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 215.0 Tm (performed using AI; no external independent proof certification is claimed.) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 195.5 Tm ([1] OEIS Foundation, A202137, https://oeis.org/A202137 \(consulted 11 November 2026\).) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 176.0 Tm ([2] Chinese remainder theorem \(classical theorem on coprime moduli\).) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Times-Roman /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Times-Bold /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000017 00000 n 
+0000000066 00000 n 
+0000000123 00000 n 
+0000000259 00000 n 
+0000004257 00000 n 
+0000004356 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+4454
+%%EOF
