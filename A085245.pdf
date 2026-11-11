@@ -1,0 +1,68 @@
+%PDF-1.4
+%PDFDOC
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 3558 >>
+stream
+BT /F2 16 Tf 1 0 0 1 54 754.0 Tm (Existence of Every Term of OEIS A085245) Tj ET
+BT /F1 10.5 Tf 1 0 0 1 54 730.0 Tm (A direct consequence of Dirichlet's theorem) Tj ET
+BT /F2 10 Tf 1 0 0 1 54 711.0 Tm (Primary author \(AI\): ChatGPT \(OpenAI\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 696.0 Tm (11 November 2026) Tj ET
+BT /F2 11.4 Tf 1 0 0 1 54 672.0 Tm (Abstract) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 656.0 Tm (For every n >= 1, infinitely many positive integers k make k*2^n+1 a squarefree semiprime. Thus the) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 643.5 Tm (least such k defining A085245 always exists. This follows from a standard application of) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 631.0 Tm (Dirichlet's theorem on primes in arithmetic progressions. The separate fixed-multiplier conjecture) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 618.5 Tm (mentioned in the OEIS entry is not proved here.) Tj ET
+BT /F2 11.4 Tf 1 0 0 1 54 592.0 Tm (1. A theorem on semiprimes) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 576.0 Tm (A squarefree semiprime is the product of two distinct primes. Theorem. Let m >= 2 and let a be an) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 563.5 Tm (integer with gcd\(a,m\)=1. Infinitely many squarefree semiprimes N satisfy N = a \(mod m\).) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 544.0 Tm (Proof. Dirichlet's theorem guarantees infinitely many primes p = a \(mod m\) and infinitely many) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 531.5 Tm (primes q = 1 \(mod m\). Fix one such prime q, and vary p through the infinitely many eligible primes) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 519.0 Tm (distinct from q. Every N=pq is the product of two distinct primes, and N = a*1 = a \(mod m\). The) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 506.5 Tm (products are distinct because p varies. QED.) Tj ET
+BT /F2 11.4 Tf 1 0 0 1 54 480.0 Tm (2. Application to OEIS A085245) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 464.0 Tm (OEIS A085245 defines a\(n\) as the least positive integer k such that k*2^n+1 is a semiprime.) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 451.5 Tm (Corollary. The integer a\(n\) exists for every n >= 1; indeed there are infinitely many eligible k.) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 432.0 Tm (Proof. Set m=2^n and a=1 in the preceding theorem. There exist infinitely many squarefree) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 419.5 Tm (semiprimes N with N = 1 \(mod 2^n\). Each yields a positive integer k=\(N-1\)/2^n with k*2^n+1=N.) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 407.0 Tm (Different N yield different k, so this set of positive k is infinite and therefore has a least) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 394.5 Tm (element. QED.) Tj ET
+BT /F2 11.4 Tf 1 0 0 1 54 368.0 Tm (3. Scope and AI disclosure) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 352.0 Tm (The OEIS entry separately conjectures that 78557*2^n+1 is semiprime for infinitely many n. Our) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 339.5 Tm (result does not address that conjecture: k is allowed to vary with n. This well-definedness proof) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 327.0 Tm (is a routine consequence of Dirichlet's theorem, not an original discovery.) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 307.5 Tm (Primary author \(AI\): ChatGPT \(OpenAI\). Mathematical drafting and preliminary proof checking were) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 295.0 Tm (performed using AI; no independent peer review or guarantee of correctness is claimed.) Tj ET
+BT /F2 11.4 Tf 1 0 0 1 54 268.5 Tm (References) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 252.5 Tm ([1] OEIS Foundation, A085245, https://oeis.org/A085245 \(consulted 11 November 2026\).) Tj ET
+BT /F1 10 Tf 1 0 0 1 54 233.0 Tm ([2] Dirichlet's theorem on primes in arithmetic progressions \(classical theorem\).) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Times-Roman /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Times-Bold /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000017 00000 n 
+0000000066 00000 n 
+0000000123 00000 n 
+0000000259 00000 n 
+0000003868 00000 n 
+0000003967 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+4065
+%%EOF
