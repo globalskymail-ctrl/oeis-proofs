@@ -2,8 +2,6 @@
 
 # OEIS Prime Proofs
 
-**One OEIS sequence, one AI proof at a time.**
-
-[Browse Proofs](.) · [Explore OEIS](https://oeis.org/)
+**One [OEIS](https://oeis.org/) sequence, one AI proof at a time.**
 
 </div>
