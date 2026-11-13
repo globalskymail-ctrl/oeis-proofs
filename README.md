@@ -1,7 +1,9 @@
-<pre>
-  _____  _______ _____ _______       _____   ______  _____   _____  _______ _______
- |     | |______   |   |______      |_____] |_____/ |     | |     | |______ |______
- |_____| |______ __|__ ______|      |       |    \_ |_____| |_____| |       ______|
-</pre>
+<div align="center">
 
-A collection of mathematical proofs for prime-related sequences in the [On-Line Encyclopedia of Integer Sequences (OEIS)](https://oeis.org/).
+# OEIS Prime Proofs
+
+**One OEIS sequence, one AI proof at a time.**
+
+[Browse Proofs](.) · [Explore OEIS](https://oeis.org/)
+
+</div>
