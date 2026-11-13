@@ -2,4 +2,4 @@
 
 One [OEIS](https://oeis.org/) sequence, one AI proof at a time.
 
-Enrich OEIS sequences with mathematical insights, even when the primary conjecture remains unsolved.
+Advance mathematical understanding of OEIS sequences, even when their conjectures remain unsolved.
