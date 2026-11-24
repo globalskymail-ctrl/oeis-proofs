@@ -4,7 +4,7 @@ One [OEIS](https://oeis.org/) sequence, one AI proof at a time.
 
 Advance mathematical understanding of OEIS sequences, even when their conjectures remain unsolved.
 
-## The Critical Line
+---
 
 ```text
                                              THE CRITICAL LINE | Re(s) = 1/2
@@ -37,19 +37,8 @@ Advance mathematical understanding of OEIS sequences, even when their conjecture
  := / :=  =     :=  ->  =  =Mathlib   -> * ->  ->  :=  := , (s)  ->  ->    -> def  =    :=  (s)  _-                  (s)
  -> | (s)   ->  (s)  ->  =  )example   * (s)  h1  ->  :=  -> _ := _ := /hr    -> /+ =     ->  =  ->
 
-                BERNHARD RIEMANN                           LEVENT ALPÖGE                                      CLAUDE
+                BERNHARD RIEMANN                                   LEVENT ALPÖGE                                   CLAUDE
 ```
 
-*Text artwork constructed from Lean keywords, tactics, mathematical identifiers and punctuation, arranged to evoke the original montage. The portrait texture is decorative, not a compilable Lean program.*
+*A Lean-code montage inspired by the Riemann Hypothesis and formal mathematical exploration.*
 
-```lean
-import Mathlib
-
-def OnCriticalLine (s : ℂ) : Prop :=
-  s.re = (1 / 2 : ℝ)
-
-example (s : ℂ) (h : s.re = (1 / 2 : ℝ)) : OnCriticalLine s := by
-  exact h
-```
-
-*A tribute to mathematical exploration. The example defines the critical line and illustrates formal reasoning; it does not prove the Riemann hypothesis.*
