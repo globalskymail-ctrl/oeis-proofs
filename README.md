@@ -4,7 +4,6 @@ One [OEIS](https://oeis.org/) sequence, one AI proof at a time.
 
 Advance mathematical understanding of OEIS sequences, even when their conjectures remain unsolved.
 
----
 
 ```text
                                              THE CRITICAL LINE | Re(s) = 1/2
@@ -40,5 +39,5 @@ Advance mathematical understanding of OEIS sequences, even when their conjecture
                 BERNHARD RIEMANN                                   LEVENT ALPÖGE                                   CLAUDE
 ```
 
-*A Lean-code montage inspired by the Riemann Hypothesis and formal mathematical exploration.*
+*A Lean-code montage inspired by the Riemann Hypothesis.*
 
