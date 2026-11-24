@@ -31,13 +31,7 @@ Advance mathematical understanding of OEIS sequences, even when their conjecture
    ℕ, ℕ,       ℂ, -2   ℕ, := s  ℂ,  ℕ, s.re    ((n  s.re       ℕ, s            1))
   -2 :=       (¬∃ 2     := :=   : ℕ,   -2            -2 1                          →
 
-           BERNHARD RIEMANN                       LEVENT ALPÖGE                         CLAUDE
+           BERNHARD RIEMANN                            LEVENT ALPÖGE                            CLAUDE
 ```
 
-*Code-art montage generated from authentic Lean source tokens in Alpöge's November 20, 2026 release, arranged by the brightness of the original portrait montage. The rearranged artwork is not executable Lean.*
-
-```lean
-theorem riemannHypothesis : RiemannHypothesis := rhOfAll
-```
-
-Source: Levent Alpöge, [Main.lean](https://github.com/leanprover-community/riemann-hypothesis/blob/original/src/Main.lean) and [Statements.lean](https://github.com/leanprover-community/riemann-hypothesis/blob/original/src/Statements.lean), preserved on the `original` branch. All credit for the source belongs to its author.
+*Code-art montage generated from authentic Lean source [Main.lean](https://github.com/leanprover-community/riemann-hypothesis/blob/original/src/Main.lean) and [Statements.lean](https://github.com/leanprover-community/riemann-hypothesis/blob/original/src/Statements.lean) tokens in Alpöge's November 20, 2026 release.*
