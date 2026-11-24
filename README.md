@@ -4,40 +4,40 @@ One [OEIS](https://oeis.org/) sequence, one AI proof at a time.
 
 Advance mathematical understanding of OEIS sequences, even when their conjectures remain unsolved.
 
-
 ```text
-                                             THE CRITICAL LINE | Re(s) = 1/2
+                                         THE CRITICAL LINE | Re(s) = 1/2
 
-    . :=  (s)         rfl  riemannZeta                          ->  calc   +rfl  (s)                                           =   ->
-     ->  ->      (s) .(==riemannZeta                        (s)  (s)        ->  :=
-                h1  +omega riemannZeta                    ->  (s)      =  =   ->  (s)                       ->         calc
-              (s) +riemannZeta example                   -> .  :=  := ,/)lemma  :=  =                       show       calc
-             -> rfl riemannZeta example                 (s)   ->  +==riemannZeta    ->                      _half      show       (s)
-            (s) )hz *omega riemannZeta s               (s)  , = riemannZeta lemma : ->                       = fun    -calc     forall
-          _rfl hz  -=Complex )riemannZeta             (s)     riemannZeta =theorem ): :=            -> ,      (show   calc     +show
-         ->  rfl   -=Mathlib - hRe ( =  (s)           fun   --lemma =|omega  *show  -> *           .forall    .apply  half   /exact
-         (s)     . (==theorem example __ :=            *  ->  hRe hr   _half /_True  =              calc fun   /from  (s)  _forall
-         ->   _ -> +example riemannZeta  -             =   =  def calc Complex apply  =               1/2 show   Real hRe )apply          =
-             rfl by example riemannZeta               ->  := riemannZeta False omega hs                 ,=|intro ring )Mathlib      := hzero
-           =  omega  riemannZeta h1 calc                ->   ,riemannZeta Real omega hz                    /False riemannZeta    /nontrivial
-           := .=Nat riemannZeta s  -|hz                    := riemannZeta (ring |import          *  ->       ,riemannZeta hIm =Complex  ->
-            =    calc -*omega /_ :=  _ ->                 (s) riemannZeta  have Complex         nontrivial calc example Mathlib _, ->
-                 h1 / :=  :=    :=     ->                  example hz theorem example           := intro from riemannZeta hzero  ->
-                 h0   -> hz   ->  h1    =                  _=omega Mathlib /==theorem                         _)|riemannZeta =nontrivial  =
-              -> Nat  ->   := *intro _ :=                    , lemma ==example exact                     = import riemannZeta  = nontrivial
-              -> have   (s) ) (s) rfl  :=                      by _==riemannZeta hz                   -> forall  |hRe (Complex       -> calc
-            := hr lemma    -> rfl rfl rfl                  :=  hRe  := hzero rw  h1                 := exact    calc  hIm |apply
-           (s)  -> |Complex   (s)  :=  :=                ,=True apply     ->  simp  :=             |forall     calc   Real _(exact
-        show _ (s)  import            ->                (s) _ =  omega ( (s) lemma  : ->            =         from   zeta    )exact
-   = fun  (s) rw  (s)   :=  (s)    -  :=  ->           forall  (s) example theorem      ->                   exact   ,show    := show
-  -> rfl  (s) ( -> + =  :=     ->     - -> rfl      :rfl  :=  =  -> _Complex omega   := . =                )calc     from      -hzero
- (s)   :=   ->  ->  (s) simp omega   (s) True rfl calc  (s)  ->  (s) _lemma lemma  =   :=  :=              Real      simp         :=
- =  =  := : -> True  rfl riemannZeta  -> . /hr rfl  (s) rfl  1/2  (s)  _True show  =  :=  ->  (s)           *        _calc
- := / :=  =     :=  ->  =  =Mathlib   -> * ->  ->  :=  := , (s)  ->  ->    -> def  =    :=  (s)  _-                  (s)
- -> | (s)   ->  (s)  ->  =  )example   * (s)  h1  ->  :=  -> _ := _ := /hr    -> /+ =     ->  =  ->
+                    ℕ, ((n
+               ℕ, 1)) -2 (¬∃                         ((n s  1)) -2 +
+             ((n  ((n (¬∃ ℂ, -2                   s.re s           ℂ)
+            ℕ, ℂ) theorem ((n ℕ,                           ℕ, rhOfAll                     s.re     ℂ, :
+           ℂ, ℂ, riemannZeta ℂ, →              -2   →  riemannZeta   :=                   -2 -2    (¬∃      ℂ,
+          -2 ((n RiemannHypothesis            :=     theorem ((n :=   :=                   ℂ, :    1))     ℂ) ∀
+         ℂ) -2   1)) -2   ℂ, ℕ,   →          1))    -2 riemannZeta -2              (¬∃      := +   1))   ℂ) ℕ,
+        1))     ((n riemannZeta   ℂ)             1)) 1))   ((n   (¬∃  ℂ,           ℂ) :=     s.re :=   s.re
+                theorem ((n -2 ℕ, →           :    := -2 ℂ, -2 -2 1))   :             ℂ, ℕ,   ((n  ℕ, ℕ, ℂ)
+         : ℂ, riemannZeta ℂ, -2 s             s    (¬∃ riemannZeta ((n :                 s.re  riemannZeta   -2 ℕ, ℂ,
+         ℂ, riemannZeta s.re  ((n              n    ((n riemannZeta -2 →                  ℂ) riemannHypothesis (¬∃ →
+             s.re (¬∃ ℕ, ℂ,   ℕ, s               (¬∃ riemannHypothesis →        ℂ) := -2 s.re 1)) ℕ, (¬∃ ((n ℕ,
+              ℕ,  ℂ) ℕ,   :=     :=              riemannZeta ((n ℂ, :=           ℂ) ℂ, rhOfAll ℕ, riemannZeta
+             -2   ℂ) ℕ,   -2  :=  →               RiemannHypothesis -2                     := ℕ, riemannZeta ℕ, (¬∃
+            1)) -2     ℂ) 1))  (¬∃                   RiemannHypothesis                 -2 rhOfAll ℂ) 1))    ℕ, ℂ, 1))
+          ℕ, ℂ) ℂ) =  ((n ℂ) (¬∃ s                rhOfAll ℂ, s.re ℂ,                ℕ, ℂ,     rhOfAll ℕ, -2
+        -2 1))  1)) ℂ) ℂ, ℂ)    ℂ,              ℂ,   ℂ) ℂ,       -2 s ℂ)           -2 ℂ)    (¬∃   ((n ℕ, ℂ,
+      ℂ, ℂ) ℕ,   ((n n                        ℕ, ℂ, (¬∃ riemannZeta : ℂ)  /                := s   ℕ,    := ℂ)
+  ℕ, (¬∃ (¬∃   1))              -2 ℂ,         (¬∃  :=   -2 ((n ((n ℕ,  := ℕ,              s.re    ℂ, n     -2 ≠
+ 1)) (¬∃ := ℕ,  ℂ)  s.re ((n   ℂ, (¬∃ :=   ℂ) ((n  ℕ, ℕ,  ℕ, rhOfAll       1))           (¬∃     ℕ, *        -2
+ ℕ,     1 -2   ℂ) := := ℂ, ℂ,   -2 ℕ, ((n  1))  ℂ,  ℕ,  ℂ,   ℂ) ((n  /   := 1))           =       ℕ,
+   ℕ, ℕ,       ℂ, -2   ℕ, := s  ℂ,  ℕ, s.re    ((n  s.re       ℕ, s            1))
+  -2 :=       (¬∃ 2     := :=   : ℕ,   -2            -2 1                          →
 
-                BERNHARD RIEMANN                                   LEVENT ALPÖGE                                   CLAUDE
+           BERNHARD RIEMANN                       LEVENT ALPÖGE                         CLAUDE
 ```
 
-*A Lean-code montage inspired by the Riemann Hypothesis.*
+*Code-art montage generated from authentic Lean source tokens in Alpöge's November 20, 2026 release, arranged by the brightness of the original portrait montage. The rearranged artwork is not executable Lean.*
 
+```lean
+theorem riemannHypothesis : RiemannHypothesis := rhOfAll
+```
+
+Source: Levent Alpöge, [Main.lean](https://github.com/leanprover-community/riemann-hypothesis/blob/original/src/Main.lean) and [Statements.lean](https://github.com/leanprover-community/riemann-hypothesis/blob/original/src/Statements.lean), preserved on the `original` branch. All credit for the source belongs to its author.
