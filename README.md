@@ -2,7 +2,7 @@
 
 One [OEIS](https://oeis.org/) sequence, one AI proof at a time.
 
-Advance mathematical understanding of OEIS sequences, even when their conjectures remain unsolved.
+Advancing mathematical understanding through rigorous proofs, new insights, and meaningful partial results—even when the underlying conjectures remain open.
 
 ```text
                                          THE CRITICAL LINE | Re(s) = 1/2
@@ -34,4 +34,4 @@ Advance mathematical understanding of OEIS sequences, even when their conjecture
               BERNHARD RIEMANN                            LEVENT ALPÖGE                            CLAUDE
 ```
 
-*Code-art montage generated from authentic Lean source [Main.lean](https://github.com/leanprover-community/riemann-hypothesis/blob/original/src/Main.lean) and [Statements.lean](https://github.com/leanprover-community/riemann-hypothesis/blob/original/src/Statements.lean) tokens in Alpöge's November 20, 2026 release.*
+The Critical Line — A tribute to mathematical discovery across generations and the emerging collaboration between human and artificial intelligence. Composed of authentic Lean tokens from [Main.lean](https://github.com/leanprover-community/riemann-hypothesis/blob/original/src/Main.lean) and [Statements.lean](https://github.com/leanprover-community/riemann-hypothesis/blob/original/src/Statements.lean) in Alpöge's November 20, 2026 release.
