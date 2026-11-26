@@ -4,10 +4,10 @@ One [OEIS](https://oeis.org/) sequence, one AI proof at a time.
 
 Advancing mathematical understanding through rigorous proofs, new insights, and meaningful partial results—even when the underlying conjectures remain open.
 
-<h3 align="center">The Critical Line | Re(s) = ½</h3>
+<h3 align="center">The Critical Line — ℜ(s) = ½</h3>
 
 <p align="center">
-  <img src="./rcl.png" width="75%" alt="The Critical Line">
+  <img src="./rcl.png" width="100%" alt="The Critical Line">
 </p>
 
 <p align="center">
