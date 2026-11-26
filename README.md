@@ -1,6 +1,6 @@
 # OEIS Primes
 
-[![Published Proofs](https://img.shields.io/badge/Published%20Proofs-460-brightgreen)](https://github.com/globalskymail-ctrl/oeis-proofs/tree/main/proofs)
+[![Published Proofs](https://img.shields.io/badge/Published%20Proofs-462-brightgreen)](https://github.com/globalskymail-ctrl/oeis-proofs/tree/main/proofs)
 
 One [OEIS](https://oeis.org/) sequence, one AI [proof](https://github.com/globalskymail-ctrl/oeis-proofs/tree/main/proofs) at a time.
 
