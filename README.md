@@ -7,7 +7,7 @@ Advancing the frontiers of mathematics through rigorous proofs, novel insights, 
 <h3 align="center">The Critical Line — ℜ(s) = ½</h3>
 
 <p align="center">
-  <img src="./rcl.png" width="100%" alt="The Critical Line">
+  <img src="https://i.postimg.cc/qR0shN4g/rcl.png" width="100%" alt="The Critical Line">
 </p>
 
 <p align="center">
