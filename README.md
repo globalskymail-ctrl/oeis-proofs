@@ -2,7 +2,7 @@
 
 One [OEIS](https://oeis.org/) sequence, one AI proof at a time.
 
-Advancing mathematical understanding through rigorous proofs, new insights, and meaningful partial results—even when the underlying conjectures remain open.
+Advancing the frontiers of mathematics through rigorous proofs, novel insights, and meaningful progress toward unresolved conjectures.
 
 <h3 align="center">The Critical Line — ℜ(s) = ½</h3>
 
@@ -19,6 +19,5 @@ Advancing mathematical understanding through rigorous proofs, new insights, and 
 </p>
 
 <p align="center">
-  <i>A tribute to mathematical discovery across generations
-  and the emerging collaboration between human and artificial intelligence.</i>
+  <i>Human ingenuity. Artificial intelligence. Infinite mathematical possibilities.</i>
 </p>
