@@ -1,6 +1,6 @@
 # OEIS Primes
 
-One [OEIS](https://oeis.org/) sequence, one AI proof at a time.
+One [OEIS](https://oeis.org/) sequence, one AI [proof](https://github.com/globalskymail-ctrl/oeis-proofs/tree/main/proofs) at a time.
 
 Advancing the frontiers of mathematics through rigorous proofs, novel insights, and meaningful progress toward unresolved conjectures.
 
