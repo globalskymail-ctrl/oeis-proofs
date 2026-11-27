@@ -1,6 +1,6 @@
 # OEIS Primes
 
-[![Published Proofs](https://img.shields.io/badge/Published%20Proofs-462-brightgreen)][1]
+[![Published Proofs](https://img.shields.io/badge/Published%20Proofs-464-brightgreen)][1]
 
 One [OEIS](https://oeis.org/) sequence, one AI [proof][1] at a time.
 
