@@ -2,7 +2,7 @@
 
 🟢 **[Published Proofs](./proofs)** `472`
 
-One [OEIS](https://oeis.org/) sequence, one AI [proof][1] at a time.
+One [OEIS](https://oeis.org/) sequence, one AI proof at a time.
 
 Advancing the frontiers of mathematics through rigorous proofs, novel insights, and meaningful progress toward unresolved conjectures.
 
