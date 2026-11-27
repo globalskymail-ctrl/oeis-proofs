@@ -1,6 +1,6 @@
 # OEIS Primes
 
-[![Published Proofs](https://img.shields.io/badge/Published%20Proofs-470-brightgreen)][1]
+🟢 **[Published Proofs](./proofs)** `470`
 
 One [OEIS](https://oeis.org/) sequence, one AI [proof][1] at a time.
 
