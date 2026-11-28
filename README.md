@@ -1,6 +1,6 @@
 # OEIS Primes
 
-🟢 **[Published Proofs](./proofs)** `618`
+🟢 **[Published Proofs](./proofs)** `620`
 
 One [OEIS](https://oeis.org/) sequence, one AI proof at a time.
 
